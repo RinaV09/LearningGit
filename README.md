@@ -1,4 +1,5 @@
 # LearningGit
 Learning Git Commands
 <br>
-Author - Rina
+Author - Rina (VisionWaves)
+ 
